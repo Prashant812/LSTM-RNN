@@ -52,6 +52,3 @@ coefficient (MFCC) features.
 
 ## Conclusion
 In both of the cases, our data consists of long sequential sequences, the better accuracy of the LSTM model confirms its effectiveness over the standard RNN. 
-The LSTM's ability to handle long-range dependencies in sequential data and address the vanishing gradient problem, which can occur in regular RNNs, makes
-it a better choice for our specific dataset. As a result, the LSTM model performs better and 
-provides more accurate predictions for tasks involving long-term dependencies and complex temporal patterns.
